@@ -5,6 +5,6 @@
 ## backend
 **/target
 **/logs
-
+rebel.xml
 ## front
 **/*.lock
