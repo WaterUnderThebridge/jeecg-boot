@@ -1,6 +1,6 @@
 package org.jeecg.modules.test;
 
-<<<<<<< HEAD
+
 import lombok.extern.slf4j.Slf4j;
 import org.jeecg.common.api.vo.Result;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -26,7 +26,3 @@ public class JeecgTestController {
         return result;
     }
 }
-=======
-public class JeecgTestController {
-}
->>>>>>> 83eb93b4a82834226041f554b7ab1ff79cf6b640

@@ -1,7 +1,8 @@
 ## ide
 **/.idea
 *.iml
-
+ .DS_Store
+package-lock.json
 ## backend
 **/target
 **/logs
